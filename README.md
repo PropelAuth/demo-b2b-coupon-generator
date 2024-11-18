@@ -1,6 +1,6 @@
 # Tutorial: Protecting a Multi-tenant Next.js client/server app with PropelAuth
 
-This is the reference app for the ["Protecting a Multi-tenant Next.js client/server app with PropelAuth"](https://www.propelauth.com/blog/todo) tutorial. Follow along to create a complete Next.js app that creates digital coupons on demand using OpenAI's API and PropelAuth to ensure only authorized users can create coupons.
+This is the reference app for the ["Protecting a Multi-tenant Next.js client/server app with PropelAuth"](https://www.propelauth.com/blog/multi-tenant-next-js-app/) tutorial. Follow along to create a complete Next.js app that creates digital coupons on demand using OpenAI's API and PropelAuth to ensure only authorized users can create coupons.
 
 ## What You'll Build
 
