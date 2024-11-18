@@ -15,7 +15,7 @@ This is the reference app for the ["Protecting a Multi-tenant Next.js client/ser
 ## How to Run
 
 1. Clone this repository.
-1. In a terminal, change directory into the repo: `cd propelauth-coupon-generator`.
+1. In a terminal, change directory into the repo: `cd demo-b2b-coupon-generator`.
 1. Install all packages: `npm install`.
 1. Follow [the quickstart guide](https://docs.propelauth.com/getting-started/quickstart-fe) to sign up for PropelAuth for free, configure a project, then configure the `.env` file with your environment variables.
 1. Build then run on localhost: `npm run build && npm run start`.
